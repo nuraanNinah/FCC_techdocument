@@ -15,7 +15,6 @@ p {
 
 nav {
   z-index: 1;
-  /*The z-index property specifies the stack order of an element. z-index only works on positioned elements (position: absolute, position: relative, position: fixed, or position: sticky) */
   top: 0;
   left: 0;
   text-align: center;
@@ -59,7 +58,6 @@ main {
   padding-bottom: 30px;
   width: 75vw;
   overflow-x: visible;
-  /*he overflow-x property specifies whether to clip the content, add a scroll bar, or display overflow*/
 }
 
 section {
